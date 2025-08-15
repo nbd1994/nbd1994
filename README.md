@@ -3,4 +3,10 @@
   <p>Visitor count</p>
 <img src="https://profile-counter.deno.dev/:nbd1994:/count.svg" alt="Key:: Visitor's Count" />
 </div>
-<img src="https://github.com/nbd1994/nbd1994/blob/main/Daco_4200164.png?raw=true" alt="Banner of a developer sitting in front of a desk">
+
+<br>
+### A Flutter & Laravel software engineer passionate about building beautiful, functional, and cross-platform applications.
+
+- 🌱 I’m currently learning **[Clean Architecture and TDD]([https://roadmap.sh/system-design](https://resocoder.com/flutter-clean-architecture-tdd/))**
+- 💬 Ask me about **Flutter, Laravel, Python, Dart...or anything [here](https://www.linkedin.com/in/natnaeljul7/)**
+<br>
