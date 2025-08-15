@@ -7,6 +7,6 @@
 <br>
 ### A Flutter & Laravel software engineer passionate about building beautiful, functional, and cross-platform applications.
 
-- 🌱 I’m currently learning **[Clean Architecture and TDD]([https://roadmap.sh/system-design](https://resocoder.com/flutter-clean-architecture-tdd/))**
+- 🌱 I’m currently learning **[Clean Architecture and TDD](https://resocoder.com/flutter-clean-architecture-tdd/))**
 - 💬 Ask me about **Flutter, Laravel, Python, Dart...or anything [here](https://www.linkedin.com/in/natnaeljul7/)**
 <br>
