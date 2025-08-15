@@ -35,6 +35,6 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,ts,js,react,nextjs,mongodb,postgres" />
-  <img src="https://skillicons.dev/icons?i=figma,postman,docker,mysql,sqlite,js,c++,git" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,ts,java,react,nextjs,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=figma,postman,docker,mysql,sqlite,js,php,git" />
 </p>
