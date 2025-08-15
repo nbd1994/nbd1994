@@ -14,3 +14,14 @@
 - 🌱 I’m currently learning **[Clean Architecture and TDD](https://resocoder.com/flutter-clean-architecture-tdd/))**
 - 💬 Ask me about **Flutter, Laravel, Python, Dart...or anything [here](https://www.linkedin.com/in/natnaeljul7/)**
 <br>
+
+<br>
+<div align="center">
+  <a href="mailto:natnaeljul7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/natnaeljul7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+<br>
