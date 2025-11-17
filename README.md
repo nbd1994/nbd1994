@@ -40,15 +40,3 @@
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/d032f579-3dd1-415b-a5be-b024ffe3b480.svg)](https://wakatime.com/@d032f579-3dd1-415b-a5be-b024ffe3b480)
-
-<a href="https://wakatime.com/@d032f579-3dd1-415b-a5be-b024ffe3b480"><img src="https://wakatime.com/badge/user/d032f579-3dd1-415b-a5be-b024ffe3b480.svg" alt="Total time coded since Nov 17 2025" /></a>
-!https://wakatime.com/badge/user/d032f579-3dd1-415b-a5be-b024ffe3b480.svg!:https://wakatime.com/@d032f579-3dd1-415b-a5be-b024ffe3b480
-
-{<img src="https://wakatime.com/badge/user/d032f579-3dd1-415b-a5be-b024ffe3b480.svg" alt="wakatime" />}[https://wakatime.com/@d032f579-3dd1-415b-a5be-b024ffe3b480]
-
-image:https://wakatime.com/badge/user/d032f579-3dd1-415b-a5be-b024ffe3b480.svg["wakatime", link="https://wakatime.com/@d032f579-3dd1-415b-a5be-b024ffe3b480"]
-
-.. image:: https://wakatime.com/badge/user/d032f579-3dd1-415b-a5be-b024ffe3b480.svg
-    :target: https://wakatime.com/@d032f579-3dd1-415b-a5be-b024ffe3b480
-
-=for html <a href="https://wakatime.com/@d032f579-3dd1-415b-a5be-b024ffe3b480"><img src="https://wakatime.com/badge/user/d032f579-3dd1-415b-a5be-b024ffe3b480.svg"></a>
