@@ -38,3 +38,5 @@
   <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,ts,java,react,nextjs,mongodb,postgres" />
   <img src="https://skillicons.dev/icons?i=figma,postman,docker,mysql,sqlite,js,php,git" />
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/d032f579-3dd1-415b-a5be-b024ffe3b480.svg)](https://wakatime.com/@d032f579-3dd1-415b-a5be-b024ffe3b480)
